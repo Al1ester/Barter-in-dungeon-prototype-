@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9c04abd392a4cfc46a4b7fe67df0e5f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - meleePrefab: {instanceID: 0}
+  - meleePoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

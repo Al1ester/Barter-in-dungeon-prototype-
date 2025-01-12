@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92c75447ecad4374cb9b6ae2c86015f6, type: 3}
+  m_Name: Needle
+  m_EditorClassIdentifier: 
+  spellName: Needles
+  requiredMaterial: metal
+  materialCost: 3
+  spellPrefab: {fileID: 4519113193706418055, guid: d5e848c6c5374584395ce5dc0512ecc9, type: 3}
+  cooldown: 0.7
+  materialIcon: {fileID: 21300000, guid: 8264a398e66aad24097cce754553597e, type: 3}

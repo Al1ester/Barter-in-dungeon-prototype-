@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92c75447ecad4374cb9b6ae2c86015f6, type: 3}
+  m_Name: Acid Splash
+  m_EditorClassIdentifier: 
+  spellName: Acid Splash
+  requiredMaterial: venom
+  materialCost: 3
+  spellPrefab: {fileID: 2444890430602831467, guid: 07da8ffb7ad63624080171f9e4df57d0, type: 3}
+  cooldown: 1
+  materialIcon: {fileID: 21300000, guid: 765b5a2fbc72a0f4e884da424ec5b2b3, type: 3}

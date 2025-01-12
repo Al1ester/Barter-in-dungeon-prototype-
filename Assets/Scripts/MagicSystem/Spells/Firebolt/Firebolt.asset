@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92c75447ecad4374cb9b6ae2c86015f6, type: 3}
+  m_Name: Firebolt
+  m_EditorClassIdentifier: 
+  spellName: Firebolt
+  requiredMaterial: coal
+  materialCost: 1
+  spellPrefab: {fileID: 4229636364169677464, guid: 912ee61f02da9a243b3bdc8317dedd47, type: 3}
+  cooldown: 1
+  materialIcon: {fileID: 21300000, guid: d60a3a4b85ffc3848b90d4ec601aa5c2, type: 3}
